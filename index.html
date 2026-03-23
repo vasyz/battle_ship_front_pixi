@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Battleship Multiplayer</title>
+    <style>
+      html, body {
+        margin: 0;
+        width: 100%;
+        min-height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+        background: radial-gradient(circle at top, #19324a 0%, #0a1621 55%, #05090d 100%);
+        color: #eef6ff;
+        font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+        touch-action: manipulation;
+        overscroll-behavior-x: none;
+      }
+
+      #app {
+        width: 100%;
+        min-height: 100vh;
+        position: relative;
+      }
+
+      canvas {
+        display: block;
+        touch-action: manipulation;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+  </html>
