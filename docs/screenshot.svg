@@ -1,0 +1,70 @@
+<svg width="1498" height="841" viewBox="0 0 1498 841" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1498" height="841" fill="#07121C"/>
+  <rect x="0.75" y="0.75" width="1496.5" height="235.5" rx="17.25" fill="#0B1723" stroke="#1F6671" stroke-width="1.5"/>
+  <text x="18" y="38" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="33" font-weight="700">Battleship Multiplayer</text>
+  <text x="17" y="77" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="23" font-weight="700">Connected. Join a room.</text>
+  <text x="17" y="109" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="17">Player: Browser Player. Room key: fallback:battleship-fallback-room</text>
+  <text x="17" y="138" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="15">Browser room: fallback:battleship-fallback-room</text>
+
+  <rect x="954" y="157" width="225" height="43" rx="11" fill="#0E1B28" stroke="#405061"/>
+  <text x="968" y="185" fill="#6F7883" font-family="Arial, sans-serif" font-size="16">Room ID</text>
+
+  <rect x="1189" y="157" width="105" height="44" rx="11" fill="#4ECDC4"/>
+  <text x="1204" y="185" fill="#06212A" font-family="Arial, sans-serif" font-size="16" font-weight="700">Join Room</text>
+
+  <rect x="1304" y="157" width="77" height="44" rx="11" fill="#317C7C"/>
+  <text x="1318" y="185" fill="#06212A" font-family="Arial, sans-serif" font-size="16" font-weight="700">Rotate</text>
+
+  <rect x="1391" y="157" width="71" height="44" rx="11" fill="#317C7C"/>
+  <text x="1408" y="185" fill="#06212A" font-family="Arial, sans-serif" font-size="16" font-weight="700">Ready</text>
+
+  <text x="339" y="254" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="25" font-weight="700">Your Board</text>
+  <text x="761" y="254" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="25" font-weight="700">Opponent Board</text>
+
+  <rect x="325.5" y="252.5" width="410" height="409" rx="17.5" fill="#122437" stroke="#35516E" stroke-width="3"/>
+  <rect x="747.5" y="252.5" width="410" height="409" rx="17.5" fill="#122437" stroke="#35516E" stroke-width="3"/>
+
+  <rect x="339.5" y="267.5" width="380" height="380" fill="#234462" stroke="#7EB8E6"/>
+  <rect x="761.5" y="267.5" width="380" height="380" fill="#234462" stroke="#7EB8E6"/>
+
+  <g stroke="#7EB8E6" stroke-opacity="0.7">
+    <path d="M377.5 267V648"/>
+    <path d="M415.5 267V648"/>
+    <path d="M453.5 267V648"/>
+    <path d="M491.5 267V648"/>
+    <path d="M529.5 267V648"/>
+    <path d="M567.5 267V648"/>
+    <path d="M605.5 267V648"/>
+    <path d="M643.5 267V648"/>
+    <path d="M681.5 267V648"/>
+    <path d="M799.5 267V648"/>
+    <path d="M837.5 267V648"/>
+    <path d="M875.5 267V648"/>
+    <path d="M913.5 267V648"/>
+    <path d="M951.5 267V648"/>
+    <path d="M989.5 267V648"/>
+    <path d="M1027.5 267V648"/>
+    <path d="M1065.5 267V648"/>
+    <path d="M1103.5 267V648"/>
+    <path d="M339 305.5H720"/>
+    <path d="M339 343.5H720"/>
+    <path d="M339 381.5H720"/>
+    <path d="M339 419.5H720"/>
+    <path d="M339 457.5H720"/>
+    <path d="M339 495.5H720"/>
+    <path d="M339 533.5H720"/>
+    <path d="M339 571.5H720"/>
+    <path d="M339 609.5H720"/>
+    <path d="M761 305.5H1142"/>
+    <path d="M761 343.5H1142"/>
+    <path d="M761 381.5H1142"/>
+    <path d="M761 419.5H1142"/>
+    <path d="M761 457.5H1142"/>
+    <path d="M761 495.5H1142"/>
+    <path d="M761 533.5H1142"/>
+    <path d="M761 571.5H1142"/>
+    <path d="M761 609.5H1142"/>
+  </g>
+
+  <text x="339" y="691" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="20" font-weight="600">Place ships on the left board. Fire on the right board during battle.</text>
+</svg>
